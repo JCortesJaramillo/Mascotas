@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="buscar_raza">Buscar!</string>
+    <string name="defecto">Ninguna categoría seleccionada</string>
+    <string-array name="categorias_perros">
+        <item>Pastores</item>
+        <item>Schnauzer</item>
+        <item>Terriers</item>
+        <item>Mastines</item>
+    </string-array>
+</resources>
